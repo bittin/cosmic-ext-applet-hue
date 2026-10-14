@@ -136,6 +136,11 @@
   </screenshots>
   
   <releases>
+    <release version="0.2.2" date="2026-10-14">
+      <description>
+        <p>Rename the applet to Hue Lights</p>
+      </description>
+    </release>
     <release version="0.1.0" date="2026-02-17">
       <description>
         <p>Initial release</p>
