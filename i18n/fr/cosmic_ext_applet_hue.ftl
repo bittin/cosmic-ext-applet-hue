@@ -1,4 +1,4 @@
-app-title = COSMIC Hue
+app-title = Hue Lights
 
 # Configuration du bridge
 configure = Configurer

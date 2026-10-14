@@ -4,7 +4,7 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0-only</project_license>
   
-  <name>COSMIC Hue</name>
+  <name>Hue Lights</name>
   <summary>Control Philips Hue lights from your COSMIC desktop</summary>
   <summary xml:lang="cs">Ovládejte světla Philips Hue z vašeho prostředí COSMIC</summary>
   <summary xml:lang="fr">Contrôlez vos lumières Philips Hue depuis votre bureau COSMIC</summary>
@@ -16,35 +16,35 @@
   
   <description>
     <p>
-      COSMIC Hue is a system tray applet for the COSMIC desktop environment that provides 
+      Hue Lights is a system tray applet for the COSMIC desktop environment that provides 
       quick and easy control of your Philips Hue smart lighting system.
     </p>
     <p xml:lang="cs">
-        COSMIC Hue je applet v systémové liště pro prostředí COSMIC, který poskytuje 
+        Hue Lights je applet v systémové liště pro prostředí COSMIC, který poskytuje 
         rychlé a jednoduché ovládání vašeho chytrého osvětlení Philips Hue.
     </p>
     <p xml:lang="fr">
-        COSMIC Hue est un applet de la barre système pour l'environnement de bureau COSMIC qui offre
+        Hue Lights est un applet de la barre système pour l'environnement de bureau COSMIC qui offre
         un contrôle rapide et facile de votre système d'éclairage intelligent Philips Hue.
     </p>
     <p xml:lang="es">
-        COSMIC Hue es un applet de la bandeja del sistema para el entorno de escritorio COSMIC que proporciona
+        Hue Lights es un applet de la bandeja del sistema para el entorno de escritorio COSMIC que proporciona
         un control rápido y sencillo de su sistema de iluminación inteligente Philips Hue.
     </p>
     <p xml:lang="it">
-        COSMIC Hue è un applet della barra di sistema per l'ambiente desktop COSMIC che fornisce
+        Hue Lights è un applet della barra di sistema per l'ambiente desktop COSMIC che fornisce
         un controllo rapido e semplice del sistema di illuminazione intelligente Philips Hue.
     </p>
     <p xml:lang="de">
-        COSMIC Hue ist ein Systemtray-Applet für die COSMIC-Desktop-Umgebung, das eine
+        Hue Lights ist ein Systemtray-Applet für die COSMIC-Desktop-Umgebung, das eine
         schnelle und einfache Steuerung Ihres Philips Hue Smart-Lighting-Systems bietet.
     </p>
     <p xml:lang="pt">
-        COSMIC Hue é um applet da bandeja do sistema para o ambiente de trabalho COSMIC que fornece
+        Hue Lights é um applet da bandeja do sistema para o ambiente de trabalho COSMIC que fornece
         controle rápido e fácil do seu sistema de iluminação inteligente Philips Hue.
     </p>
     <p xml:lang="nl">
-        COSMIC Hue is een systeemvak-applet voor de COSMIC-desktopomgeving die
+        Hue Lights is een systeemvak-applet voor de COSMIC-desktopomgeving die
         snelle en eenvoudige bediening van uw Philips Hue smart verlichtingssysteem biedt.
     </p>
     <p>

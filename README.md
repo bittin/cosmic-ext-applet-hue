@@ -1,4 +1,4 @@
-# COSMIC Hue
+# Hue Lights
 
 A COSMIC™ desktop applet for managing Philips Hue lights directly from your system tray. Built with [libcosmic][libcosmic] and [huelib][huelib] for native Rust integration with the Philips Hue ecosystem.
 
@@ -19,17 +19,17 @@ This repository has been made with the [COSMIC applet template][COSMIC applet te
 <summary>Click to view screenshots</summary>
 
 <p align="center">
-  <img src="screenshots/screenshot_1.png" alt="COSMIC Hue Lights" width="70%">
+  <img src="screenshots/screenshot_1.png" alt="Hue Lights – Lights" width="70%">
   <br><em>Lights View</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot_2.png" alt="COSMIC Hue Groups" width="70%">
+  <img src="screenshots/screenshot_2.png" alt="Hue Lights – Groups" width="70%">
   <br><em>Groups View</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot_3.png" alt="COSMIC Hue Scenes" width="70%">
+  <img src="screenshots/screenshot_3.png" alt="Hue Lights – Scenes" width="70%">
   <br><em>Scenes View</em>
 </p>
 
@@ -56,7 +56,7 @@ The project uses [just][just] as command runner:
 
 ## Usage
 
-1. Click the Cosmic Hue icon in your system tray
+1. Click the Hue Lights icon in your system tray
 2. Click "Configure" to search for your Hue bridge
 3. Press the physical button on your Hue bridge
 4. Click "Pair bridge" to authenticate
