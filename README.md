@@ -1,5 +1,10 @@
 # Hue Lights
 
+> [!WARNING]
+> **This project is on hold.** I'm not using COSMIC at the moment, so development is paused: no new features or fixes are planned for now, and issues and pull requests may go unanswered.
+>
+> Anyone is welcome to fork the project and take it over under the terms of the GPL-3.0 license.
+
 A COSMIC™ desktop applet for managing Philips Hue lights directly from your system tray. Built with [libcosmic][libcosmic] and [huelib][huelib] for native Rust integration with the Philips Hue ecosystem.
 
 This repository has been made with the [COSMIC applet template][COSMIC applet template].
